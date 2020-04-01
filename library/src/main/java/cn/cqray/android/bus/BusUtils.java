@@ -7,7 +7,7 @@ import java.lang.reflect.Type;
 
 /**
  * 工具类
- * @author LeiJue
+ * @author Cqray
  */
 final class BusUtils {
 

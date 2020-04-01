@@ -8,7 +8,7 @@ import io.reactivex.functions.Consumer;
 
 /**
  * 事件处理
- * @author LeiJue
+ * @author Cqray
  */
 public interface Bus<T> extends LifecycleObserver {
 

@@ -17,7 +17,7 @@ import io.reactivex.processors.PublishProcessor;
 
 /**
  * 事件分发
- * @author LeiJue
+ * @author Cqray
  */
 public class Rxbus {
 

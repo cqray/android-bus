@@ -6,7 +6,7 @@ import io.reactivex.processors.FlowableProcessor;
 
 /**
  * 转换器
- * @author LeiJue
+ * @author Cqray
  */
 public final class BusConverter {
 
